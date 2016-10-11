@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name = 'Stocpy',
+    name = 'Stockpy',
     version = '0.1.0',
     description = 'A Python package to retrieve stock data as well as Stock Symbols for the Indian Stock Market.',
     author = 'Aadhar',
