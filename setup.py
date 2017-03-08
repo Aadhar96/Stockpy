@@ -7,8 +7,7 @@ setup(
     author = 'Aadhar',
     author_email = 'sachdevaaadhar@gmail.com',
     url = 'https://github.com/Aadhar96/Stockpy', 
-    keywords= "market finance ticker stock stocks NSE BSE ".split()
-    py_modules=['Stockpy'],
+    keywords= "market finance ticker stock stocks NSE BSE ".split(),
     install_requires=[
         # list of this package dependencies
         "requests >= 2.2.1",
